@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes over a century of international football matches (1902-2024) using data cleaning, transformation, and visualization techniques. The objective is to provide key insights on team performances through an interactive dashboard designed for upper management.
+This project analyzes over a century of international football matches (1902-2024) using data cleaning, transformation, and visualization techniques. The objective is to provide key insights on team performances through an interactive dashboard designed for upper management. You can find our presentation [here](https://www.canva.com/design/DAGRaCek5b4/c_Fv03uMc3prXiSjF7ZBqQ/view?utm_content=DAGRaCek5b4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
